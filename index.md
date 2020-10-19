@@ -9,6 +9,7 @@
   <p>THIS SITE IS UNDER CONSTRUCTION</p>
   <br>
   <br>
+  <img src="https://github.com/iotgeology/arduino-landslide/blob/master/base%20node.png" alt="arduino">
   <br>
   <br>
   <h1>Welcome to IOT Geology</h1>
